@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b> Azure/ Cloud Cybersecurity Project </b>
-  - [Creating a live Soc/Honeynet in Azure]()
+  - [Creating a live Soc/Honeynet in Azure](https://github.com/sMedrano101/Cloud-Soc-Honeynet/tree/main)
 - <b>Live Happy Travels (Wordpress)</b>
   - [Freelance Project](https://youtu.be/ahOQPUjed7M?si=sn3PGSqkA85MkgVM) <b><i>(Affiliate, SEO)</b></i>
 - <b>The Brew App</b>
