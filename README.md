@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b> Azure/ Cloud Cypersecurity Project </b>
+- <b> Azure/ Cloud Cybersecurity Project </b>
   - [Creating a live Soc/Honeynet in Azure]()
 - <b>Live Happy Travels (Wordpress)</b>
   - [Freelance Project](https://youtu.be/ahOQPUjed7M?si=sn3PGSqkA85MkgVM) <b><i>(Affiliate, SEO)</b></i>
