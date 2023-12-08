@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steve! <br/><a href="https://github.com/smedrano101">Passionate Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/steve-medrano/"></a>
+<h1>Hi, I'm Steve! <br/><a href="https://github.com/smedrano101">Passionate Cybersecurity Analyst</a> <a href="https://www.linkedin.com/in/steve-medrano/"></a>
 
 <h2>👨‍💻Projects:</h2>
 
