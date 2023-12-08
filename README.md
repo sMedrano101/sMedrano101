@@ -2,13 +2,12 @@
 
 <h2>My Projects</h2>
 - <b>Azure/ Cloud Cypersecurity Project</b>
-  - 
+  - [
 - <b>The Brew App (React, API, Bootstrap)</b>
-  - [Immersive Bootcamp project](https://github.com/DjangoKerger/DCBreweriesAPP#dcbreweriesapp)
-  - [created during covid](https://www.youtube.com/watch?v=LsYlobqq9G4)
+  - [[Immersive Bootcamp project](https://github.com/DjangoKerger/DCBreweriesAPP#dcbreweriesapp)
+  - [[created during covid](https://www.youtube.com/watch?v=LsYlobqq9G4)
 - <b>Live Happy Travels (Wordpress)</b>
-  - [Freelance Project](https://youtu.be/ahOQPUjed7M?si=sn3PGSqkA85MkgVM) <b><i>()</b></i>
-
+  - [[Freelance Project](https://youtu.be/ahOQPUjed7M?si=sn3PGSqkA85MkgVM) <b><i>()</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
