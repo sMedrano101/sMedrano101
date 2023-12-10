@@ -5,7 +5,7 @@
 - <b> Azure/ Cloud Cybersecurity Project </b>
   - [Creating a live Soc/Honeynet in Azure](https://github.com/sMedrano101/Cloud-Soc-Honeynet/tree/main)
 - <b>Live Happy Travels (Wordpress)</b>
-  - [Freelance Project](https://youtu.be/ahOQPUjed7M?si=sn3PGSqkA85MkgVM) <b><i>(Wordpress)</b></i>
+  - [Freelance Project](https://youtu.be/ahOQPUjed7M?si=sn3PGSqkA85MkgVM) 
 - <b>The Brew App</b> <b><i>(React, API, Google API)</b></i>
   - [Immersive Bootcamp Project](https://github.com/DjangoKerger/DCBreweriesAPP#dcbreweriesapp)
 
